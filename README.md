@@ -1,6 +1,6 @@
 # AI-Engineer
 #llms
-#fine tunning
+#fine-tuning
 #rag
 #agents
 #mcbs
